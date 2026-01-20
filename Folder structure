@@ -1,0 +1,9 @@
+jenkins-devsecops-pipeline/
+│
+├── Jenkinsfile
+├── docker/
+│   └── Dockerfile
+├── app/
+│   └── (sample nodejs app)
+├── screenshots/
+└── README.md
